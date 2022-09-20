@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Mesmo codigo do git
+=======
+mesmo codigo do git
+>>>>>>> teste

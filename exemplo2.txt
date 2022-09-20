@@ -1,3 +1,7 @@
 Aula de git para inicinates.
 Iniciando os primeiros comando do git
+<<<<<<< HEAD
 Adicioando mas uma linha
+=======
+Adicionado mas uma linha 
+>>>>>>> teste
